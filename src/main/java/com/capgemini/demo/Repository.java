@@ -1,3 +1,4 @@
+// If both nos are even then product else addition of given nos
 package com.capgemini.demo;
 
 import java.util.Scanner;
